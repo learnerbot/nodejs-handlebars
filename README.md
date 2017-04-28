@@ -12,7 +12,7 @@ The following libraries are used in the application.
 
 *[Express](https://expressjs.com/)*: Fast, unopinionated, minimalist web framework for Node.js.
 
-*[Handlebars](http://handlebarsjs.com/): Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.
+*[Handlebars](http://handlebarsjs.com/)*: Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.
 
 *[jQuery](https://jquery.com/)*: *jQuery* is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML.
 
